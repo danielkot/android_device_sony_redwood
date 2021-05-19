@@ -8,8 +8,8 @@ PRODUCT_BRAND := Sony
 PRODUCT_MODEL := Sony xperia xa1 (codename redwood)
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_GMS_CLIENTID_BASE := android-sony
-BUILD_FINGERPRINT := Sony/full_redwood/redwood:7.0/NRD90M/1504822148:user/test-keys
+BUILD_FINGERPRINT := Sony/full_redwood/redwood:7.0/NRD90M/1504822148:user/release-keys
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=redwood \
-    PRIVATE_BUILD_DESC="full_redwood-user 7.0 NRD90M 1504822148 test-keys"
+    PRIVATE_BUILD_DESC="full_redwood-user 7.0 NRD90M 1504822148 release-keys"
