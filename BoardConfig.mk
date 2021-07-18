@@ -27,6 +27,7 @@ TARGET_KMODULES := true
 TARGET_BOOTANIMATION_MULTITHREAD_DECODE := true
 TARGET_OTA_ASSERT_DEVICE := g3212,redwood
 SELINUX_PERMISSIVE := true
+ALLOW_MISSING_DEPENDENCIES := true
 #WITH_TWRP := true
 
 include device/sony/mt6757-common/BoardConfigCommon.mk
